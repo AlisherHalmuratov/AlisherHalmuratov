@@ -1,1 +1,1 @@
-### Welcome! I’m Alisher👋
+### Hi! I’m Alisher👋
