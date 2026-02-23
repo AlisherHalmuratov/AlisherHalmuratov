@@ -1,5 +1,5 @@
-# Alisher 👋
-### Frontend Developer & 3D/Video Enthusiast
+# Hi, I'm Alisher👋
+### Frontend Developer
 
 I build modern, responsive web interfaces and love creating visual content.  
 Focused on clean architecture, performance, and creative projects.
