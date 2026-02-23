@@ -1,5 +1,8 @@
 # Alisher 👋
-### Frontend Developer
+### Frontend Developer & 3D/Video Enthusiast
+
+I build modern, responsive web interfaces and love creating visual content.  
+Focused on clean architecture, performance, and creative projects.
 
 ---
 
@@ -26,7 +29,15 @@
 
 ---
 
+## 🎨 Creative Skills
+- Video Editing: **After Effects**  
+- 3D Modeling: **Blender**  
+
+---
+
 ## 💡 Current Goals
 - Become a strong Frontend Engineer  
-- Master TypeScript deeply  
-- Build production-ready projects
+- Master TypeScript  
+- Build production-ready web projects  
+- Learn **Unreal Engine 5** for game development  
+- Combine coding + 3D + video creativity  
