@@ -6,10 +6,6 @@
 
 ## 👨‍💻 About Me
 
-name: "Alisher",
-role: "Frontend Developer",
-focus: "Modern Web Development",
-
 🚀 I build modern and responsive interfaces<br>
 🎯 Focused on clean code and scalable architecture<br>
 📈 Constantly growing and diving deeper into the JavaScript ecosystem
