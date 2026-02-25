@@ -20,6 +20,7 @@ Focused on clean architecture, performance, and creative projects.
 
 ## 📚 Learning
 <p>
+  <img height="28" src="https://skillicons.dev/icons?i=scss" />
   <img height="28" src="https://skillicons.dev/icons?i=tailwind" />
   <img height="28" src="https://skillicons.dev/icons?i=vue" />
   <img height="28" src="https://skillicons.dev/icons?i=ts" />
