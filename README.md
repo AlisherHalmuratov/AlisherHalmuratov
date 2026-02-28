@@ -21,10 +21,9 @@ Focused on clean architecture, performance, and creative projects.
 ## 📚 Learning
 <p>
   <img height="30" src="https://skillicons.dev/icons?i=scss" />
-  <img height="30" src="https://skillicons.dev/icons?i=tailwind" />
-  <img height="30" src="https://skillicons.dev/icons?i=vue" />
   <img height="30" src="https://skillicons.dev/icons?i=ts" />
-  <img height="30" src="https://skillicons.dev/icons?i=python" />
+  <img height="30" src="https://skillicons.dev/icons?i=react" />
+  <img height="30" src="https://skillicons.dev/icons?i=nextjs" />
   <img height="30" src="https://skillicons.dev/icons?i=nodejs" />
 </p>
 
