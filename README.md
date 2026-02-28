@@ -22,10 +22,10 @@ Focused on clean architecture, performance, and creative projects.
 <p>
   <img height="40" src="https://skillicons.dev/icons?i=scss" />
   <img height="40" src="https://skillicons.dev/icons?i=tailwind" />
+  <img height="40" src="https://skillicons.dev/icons?i=vite" />
   <img height="40" src="https://skillicons.dev/icons?i=ts" />
   <img height="40" src="https://skillicons.dev/icons?i=react" />
   <img height="40" src="https://skillicons.dev/icons?i=nextjs" />
-  <img height="40" src="https://skillicons.dev/icons?i=nodejs" />
 </p>
 
 ---
