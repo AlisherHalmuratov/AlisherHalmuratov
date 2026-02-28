@@ -13,18 +13,19 @@ Focused on clean architecture, performance, and creative projects.
 
 ## 🛠 Skills
 <p>
-  <img height="30" src="https://skillicons.dev/icons?i=html" />
-  <img height="30" src="https://skillicons.dev/icons?i=css" />
-  <img height="30" src="https://skillicons.dev/icons?i=js" />
+  <img height="40" src="https://skillicons.dev/icons?i=html" />
+  <img height="40" src="https://skillicons.dev/icons?i=css" />
+  <img height="40" src="https://skillicons.dev/icons?i=js" />
 </p>
 
 ## 📚 Learning
 <p>
-  <img height="30" src="https://skillicons.dev/icons?i=scss" />
-  <img height="30" src="https://skillicons.dev/icons?i=ts" />
-  <img height="30" src="https://skillicons.dev/icons?i=react" />
-  <img height="30" src="https://skillicons.dev/icons?i=nextjs" />
-  <img height="30" src="https://skillicons.dev/icons?i=nodejs" />
+  <img height="40" src="https://skillicons.dev/icons?i=scss" />
+  <img height="40" src="https://skillicons.dev/icons?i=tailwind" />
+  <img height="40" src="https://skillicons.dev/icons?i=ts" />
+  <img height="40" src="https://skillicons.dev/icons?i=react" />
+  <img height="40" src="https://skillicons.dev/icons?i=nextjs" />
+  <img height="40" src="https://skillicons.dev/icons?i=nodejs" />
 </p>
 
 ---
