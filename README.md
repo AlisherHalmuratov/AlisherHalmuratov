@@ -49,14 +49,7 @@
 
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
-
-![Alisher's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alisherhalmuratov&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=63e6be&icon_color=63e6be&text_color=f0ede6)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alisherhalmuratov&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=63e6be&text_color=f0ede6)
-
 </div>
 
 ---
