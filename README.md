@@ -50,11 +50,6 @@
 ---
 
 <div align="center">
-</div>
-
----
-
-<div align="center">
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=alisherhalmuratov.alisherhalmuratov)
 
