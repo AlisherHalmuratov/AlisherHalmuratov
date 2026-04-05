@@ -1,44 +1,68 @@
-# Hi, I'm Alisher👋
+<div align="center">
+
+# Hi, I'm Alisher 👋
 ### Frontend Developer
 
-I build modern, responsive web interfaces and love creating visual content.  
-Focused on clean architecture, performance, and creative projects.
+*Building modern, responsive web interfaces — clean architecture, performance, and creative projects.*
 
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d0d0d?style=for-the-badge&logo=firefox&logoColor=63e6be)](https://alisherhalmuratov.github.io/Portfolio/)
+[![Telegram](https://img.shields.io/badge/Telegram-0d0d0d?style=for-the-badge&logo=telegram&logoColor=63e6be)](https://t.me/Xalmuratov_alisher)
 
-## 🌐 Portfolio
-[alisherhalmuratov.github.io/Portfolio](https://alisherhalmuratov.github.io/Portfolio/)
+</div>
 
 ---
 
 ## 🛠 Skills
+
 <p>
-  <img height="40" src="https://skillicons.dev/icons?i=html" />
-  <img height="40" src="https://skillicons.dev/icons?i=css" />
-  <img height="40" src="https://skillicons.dev/icons?i=js" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" />
 </p>
 
-## 📚 Learning
+## 📚 Currently Learning
+
 <p>
-  <img height="40" src="https://skillicons.dev/icons?i=scss" />
-  <img height="40" src="https://skillicons.dev/icons?i=tailwind" />
-  <img height="40" src="https://skillicons.dev/icons?i=vite" />
-  <img height="40" src="https://skillicons.dev/icons?i=ts" />
-  <img height="40" src="https://skillicons.dev/icons?i=react" />
-  <img height="40" src="https://skillicons.dev/icons?i=nextjs" />
+  <img src="https://skillicons.dev/icons?i=scss" height="40" alt="SCSS" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind" />
+  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="Vite" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js" />
 </p>
 
----
+## 🎨 Creative Tools
 
-## 🎨 Creative Skills
-- Video Editing: **After Effects**  
-- 3D Modeling: **Blender**  
+<p>
+  <img src="https://skillicons.dev/icons?i=ae" height="40" alt="After Effects" />
+  <img src="https://skillicons.dev/icons?i=pr" height="40" alt="Premiere Pro" />
+  <img src="https://skillicons.dev/icons?i=blender" height="40" alt="Blender" />
+</p>
 
 ---
 
 ## 💡 Current Goals
-- Become a strong Frontend Engineer  
-- Master TypeScript  
-- Build production-ready web projects  
-- Learn **Unreal Engine 5** for game development  
-- Combine coding + 3D + video creativity  
+
+- ⚡ Become a strong Frontend Engineer — ship real products, not just side projects
+- 🔷 Master TypeScript — write fully typed, production-grade code
+- 🚀 Build and deploy production-ready web apps with React & Next.js
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Alisher's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alisherhalmuratov&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=63e6be&icon_color=63e6be&text_color=f0ede6)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alisherhalmuratov&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=63e6be&text_color=f0ede6)
+
+</div>
+
+---
+
+<div align="center">
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=alisherhalmuratov.alisherhalmuratov)
+
+</div>
