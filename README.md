@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi, I'm Alisher 👋
-### Future Frontend Developer
+### Aspiring Software Engineer | Full-Stack Learner
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0d0d0d?style=for-the-badge&logo=firefox&logoColor=63e6be)](https://alisherhalmuratov.github.io/Portfolio/)
 [![Telegram](https://img.shields.io/badge/Telegram-0d0d0d?style=for-the-badge&logo=telegram&logoColor=63e6be)](https://t.me/Xalmuratov_alisher)
@@ -10,25 +10,28 @@
 
 ---
 
-## 🛠 Skills
+## 🛠 Skills & Foundations
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
 </p>
 
-## 📚 Currently Learning
+## 📚 Currently Learning & Exploring
 
 <p>
-  <img src="https://skillicons.dev/icons?i=scss" height="40" alt="SCSS" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="Vite" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express.js" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL / SQL" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="Prisma ORM" />
 </p>
 
 ## 🎨 Creative Tools
@@ -43,9 +46,9 @@
 
 ## 💡 Current Goals
 
-- ⚡ Become a strong Frontend Engineer — ship real products, not just side projects
-- 🔷 Master TypeScript — write fully typed, production-grade code
-- 🚀 Build and deploy production-ready web apps with React & Next.js
+- 🎓 Prepare for admission to a European university for **Software Engineering**
+- 🚀 Master Full-Stack Engineering (Frontend + Backend) with **React, Next.js, Node.js & Databases**
+- 📐 Deepen fundamental knowledge in **Mathematics, Physics, and CS Theory**
 
 ---
 
