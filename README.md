@@ -1,9 +1,7 @@
 <div align="center">
 
 # Hi, I'm Alisher 👋
-### Frontend Developer
-
-*Building modern, responsive web interfaces — clean architecture, performance, and creative projects.*
+### Future Frontend Developer
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0d0d0d?style=for-the-badge&logo=firefox&logoColor=63e6be)](https://alisherhalmuratov.github.io/Portfolio/)
 [![Telegram](https://img.shields.io/badge/Telegram-0d0d0d?style=for-the-badge&logo=telegram&logoColor=63e6be)](https://t.me/Xalmuratov_alisher)
@@ -15,6 +13,7 @@
 ## 🛠 Skills
 
 <p>
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" />
